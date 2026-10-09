@@ -3,11 +3,14 @@
 <p align="center">
   <b>A passionate Developer | Open Source Contributor </b>
 </p>
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tara8573&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ## 👨‍💻 About Me
 - 🔭 I'm currently focusing on **DevOps Development**, **Observability** and **AIOps Development**.
----
+
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
